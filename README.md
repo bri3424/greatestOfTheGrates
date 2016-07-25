@@ -1,3 +1,11 @@
 # Greatest of the Grates
 ## Need a place to put all the rainwater on your street? Need a friend to brave the hottest flames so that you can cook your favorite BBQ steak? Need a door to keep all the criminals in thier jailcells? Call US! Greatest of the Grates.
-### No we're not a grate supply company, silly.
+### No we're not a grate supply company, silly. You'll see a bunch of bioinformatics jibberjabber on here. Don't disrespect my naming conventions.
+
+dihydroxyacetone kinase, PTS-dependent, dihydroxyacetone-binding sub  -  Dihydroxyacetone (DHA) can serve as the sole source of carbon and energy for E. coli K-12, but only in a low phosphate environment. kinase means kin means kinematic means movement, so I assume it means 'move this energy' PTS, is a distinct method used by bacteria for sugar uptake where the source of energy is from phosphoenolpyruvate (PEP) so being PTS dependent means it needs that, which makes some sense because both of the terms relate to gathering energy. dihydroxyacetone-binding Binds covalently dihydroxyacetone in hemiaminal linkage. Acts also as a corepressor of DhaR by binding to its sensor domain, in the absence of dihydroxyacetone. this is a binding that probably has to do with the energy transportation previously mentioned.
+
+ malate dehydrogenase, decarboxylating, NAD-requiring; malic enzyme  -  Malate dehydrogenase is an enzyme that reversibly catalyzes the oxidation of malate to oxaloacetate.  This reaction is part of many metabolic pathways, including the citric acid cycle. decarboxylating is the removal of the carboxyl group. The process of removing a carboxyl group from a chemical Compound (usually replacing it with hydrogen).The removal of the carbon element of a molecule. NAD-dependent malate dehydrogenase from E. coli W was shown to also possess oxaloacetate decarboxylase, oxaloacetate reductase, and pyruvate reductase activities. malic enzyme (NAD-ME) is an enzyme that catalyzes the chemical reaction. This doesn't give me much to work off of, but I think it has something to do with metabolism because of the malate dehydrogenase and also has to do with facilitating or controlling a chemical reaction because of the malic enzyme.
+ 
+ O-acetyl-ADP-ribose deacetylase; RNase III inhibitor during cold shock; putative cardiolipin synthase C regulatory subunit  -  
+
+
